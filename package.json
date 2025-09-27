@@ -3,7 +3,7 @@
     "private": true,
     "version": "0.0.0",
     "type": "module",
-    "homepage": "hasanmuntasir889.github.io/customersupport2/",
+    "homepage": "hasanmuntasir889.github.io/customersupport/",
     "scripts": {
         "dev": "vite",
         "build": "vite build",
